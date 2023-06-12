@@ -3,6 +3,8 @@ import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
+import mock5 from "../img/mock5.png"
+
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -115,6 +117,12 @@ export const info = {
             live: "https://www.youtube.com/watch?v=2Kje8GrCYE8", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/eekaks/Pygame-project", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
+        },
+        {
+            title: "FindIT webstore",
+            live: "", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/eekaks/FindIT_webstore", // this should be a link to the **repository** of the project, where the code is hosted.
+            image: mock5
         },
         {
             title: "Discover Helsinki",
